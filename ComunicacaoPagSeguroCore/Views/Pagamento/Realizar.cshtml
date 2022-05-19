@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Realizar";
+}
+
+<form target="pagseguro" method="post"
+      action="https://pagseguro.uol.com.br/checkout/checkout.jhtml">
+    <input type="hidden" name="email_cobranca"
+           value="relintonproande@gmail.com" />
+    <input type="hidden" name="tipo" value="CBR" />
+    <input type="hidden" name="moeda" value="BRL" />
+    <input type="hidden" name="item_id" 
+           @*value="@Model.ID" />*@
+           value="1234" />
+    <input type="hidden" name="item_descr"
+           @*value="@Model.Nome" />*@
+           value="Notbook Acer" />
+    <input type="hidden" name="item_quant" value="1" />
+    <input type="hidden" name="item_valor" value="1.00" />
+    <input type="image" name="submit"
+           src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/99x61-comprar-assina.gif"
+           alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+

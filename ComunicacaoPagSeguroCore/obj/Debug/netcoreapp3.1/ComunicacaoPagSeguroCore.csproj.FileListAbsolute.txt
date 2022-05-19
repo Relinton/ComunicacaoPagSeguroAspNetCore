@@ -1,0 +1,229 @@
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.exe
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.deps.json
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.runtimeconfig.json
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.runtimeconfig.dev.json
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.pdb
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.Views.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.Views.pdb
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.csproj.AssemblyReference.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.AssemblyInfo.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorAssemblyInfo.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorAssemblyInfo.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\staticwebassets\ComunicacaoPagSeguroCore.StaticWebAssets.Manifest.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\staticwebassets\ComunicacaoPagSeguroCore.StaticWebAssets.xml
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComunicacaoPagSeguroCore.styles.css
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.TagHelpers.input.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.TagHelpers.output.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorCoreGenerate.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorTargetAssemblyInfo.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorTargetAssemblyInfo.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.Views.pdb
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.csproj.CopyComplete
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.dll
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.pdb
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.genruntimeconfig.cache
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Pagamento\Realizar.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Detalhes.cshtml.g.cs
+D:\Relinton Sistemas\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Retorno.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\appsettings.json
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.exe
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.deps.json
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.runtimeconfig.json
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.runtimeconfig.dev.json
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.pdb
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.Views.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.Views.pdb
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.csproj.AssemblyReference.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.AssemblyInfoInputs.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.AssemblyInfo.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.csproj.CoreCompileInputs.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.MvcApplicationPartsAssemblyInfo.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorAssemblyInfo.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorAssemblyInfo.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\staticwebassets\ComunicacaoPagSeguroCore.StaticWebAssets.Manifest.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\staticwebassets\ComunicacaoPagSeguroCore.StaticWebAssets.xml
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ComunicacaoPagSeguroCore.styles.css
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.TagHelpers.input.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.TagHelpers.output.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorCoreGenerate.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Pagamento\Realizar.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Detalhes.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Retorno.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorTargetAssemblyInfo.cache
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.RazorTargetAssemblyInfo.cs
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.Views.pdb
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.csproj.CopyComplete
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.dll
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.pdb
+G:\ComunicacaoPagSeguroCore\ComunicacaoPagSeguroCore\obj\Debug\netcoreapp3.1\ComunicacaoPagSeguroCore.genruntimeconfig.cache

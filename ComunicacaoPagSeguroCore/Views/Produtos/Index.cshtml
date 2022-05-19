@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ComunicacaoPagSeguroCore.Models.Produto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="card mt-0">
+        <h3 class="title text-center">Lista de produtos</h3>
+        <div class="col-12">
+            @if (Model != null)
+            {
+                <table class="table table-responsive table-bordered">
+                    <tr>
+                        <th>Nome</th>
+                        <th>Descrição</th>
+                        <th>Valor</th>
+                        <th>Ação</th>
+                    </tr>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Nome</td>
+                            <td>@item.Descricao</td>
+                            <td>@item.Valor.ToString("C")</td>
+                            <td><a href="~/Produtos/Detalhes/@item.Id">Ver detalhe</a></td>
+                        </tr>
+                    }
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-info" style="text-align:center">
+                    <i class="fa fa-info"></i> Nenhuma informação encontrada
+                </div>
+            }
+        </div>
+    </div>
+</div>

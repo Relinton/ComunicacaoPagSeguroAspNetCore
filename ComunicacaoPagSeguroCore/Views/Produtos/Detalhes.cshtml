@@ -1,0 +1,53 @@
+﻿@model ComunicacaoPagSeguroCore.Models.Produto
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<div class="container">
+    <div class="card mt-0">
+        <h3 class="title text-center">Detalhes do Produto</h3>
+        <div class="col-12">
+            @if (Model != null)
+            {
+                <table class="table table-responsive table-bordered">
+                    <tr>
+                        <th>Nome</th>
+                        <th>Descrição</th>
+                        <th>Valor</th>
+                        <th>Quantidade&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Ação</th>
+                    </tr>
+                    <tr>
+                        <td>@Model.Nome</td>
+                        <td>@Model.Descricao</td>
+                        <td>@Model.Valor.ToString("C")</td>
+                        @*<td><input type="text" name="item_quant" value="@Model.Quantidade" /></td>*@
+                        <td>
+                            <form target="pagseguro" method="post"
+                                  action="https://pagseguro.uol.com.br/checkout/checkout.jhtml">
+                                <input type="hidden" name="email_cobranca" value="relintonproande@gmail.com" />
+                                <input type="hidden" name="tipo" value="CBR" />
+                                <input type="hidden" name="moeda" value="BRL" />
+                                <input type="hidden" name="item_id" value="@Model.Id" />
+                                <input type="hidden" name="item_descr" value="@Model.Nome" />
+                                <input type="text" name="item_quant" value="@Model.Quantidade"/>
+                                <input type="hidden" name="item_valor" value="@Model.Valor" />
+                                <input type="image" name="submit"
+                                       src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/pagamentos/99x61-comprar-assina.gif"
+                                       alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                            </form>
+                        </td>
+                    </tr>
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-info" style="text-align:center">
+                    <i class="fa fa-info"></i> Nenhuma informação encontrada
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+
